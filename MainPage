@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>建阳区华龙桥梁构建有限公司</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/carousel/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://getbootstrap.com//docs/4.4/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <meta name="msapplication-config" content="/docs/4.4/assets/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#563d7c">
+
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+    {#      <link href="https://getbootstrap.com/docs/4.4/examples/blog/blog.css" rel="stylesheet">#}
+</head>
+<body>
+{#  Header#}
+<header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col-4 pt-1">
+        </div>
+        <div class="col-4 text-center">
+            <h1><a class="blog-header-logo text-dark" href="#">建阳区华龙桥梁构建有限公司</a></h1>
+        </div>
+        <div class="col-4 d-flex justify-content-end align-items-center">
+
+        </div>
+    </div>
+</header>
+
+{#DIV1#}
+<div class="row mb-1">
+    <div class="col-md-6">
+        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col p-4 d-flex flex-column position-static">
+                <h3 class="mb-0">生产定做</h3>
+                <p></p>
+                <p class="card-text mb-auto">波纹管（镀锌/塑料）</p>
+                <p></p>
+                <p class="card-text mb-auto">灌浆料</p>
+                <p></p>
+                <p class="card-text mb-auto">钢带 （镀锌/黑带）</p>
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+                <img src="/static/pic_1.png" class="img-thumbnail" width="240px" height="224px">
+                <img src="/static/pic_2.png" class="img-thumbnail" width="240px" height="224px">
+                <img src="/static/pic_3.png" class="img-thumbnail" width="240px" height="244px">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col p-4 d-flex flex-column position-static">
+                <h3 class="mb-0">预制定做：</h3>
+                <p class="mb-auto"></p>
+                <p class="mb-auto">空心板梁 </p>
+                <p class="mb-auto">T梁 </p>
+                <p class="mb-auto">箱梁 </p>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+                <img src="/static/pic_4.png" class="img-thumbnail" height="224px">
+            </div>
+        </div>
+    </div>
+</div>
+
+{#DIV2#}
+<div class="row mb-2">
+    <div class="col-md-6">
+        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col p-4 d-flex flex-column position-static">
+                <h3 class="mb-0">现场制作：</h3>
+                <p></p>
+                <p class="mb-auto">桥墩</p>
+                <p></p>
+                <p></p>
+
+                <p class="mb-auto">所有桥梁二手钢模及各种桥梁原材料等</p>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+                <img src="/static/pic_5.png" class="img-thumbnail"  height="224px">
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col p-4 d-flex flex-column position-static">
+                <h3 class="mb-0">销售预应力系列：</h3>
+                <p></p>
+                <p class="card-text mb-auto">灌浆料</p>
+                <p></p>
+                <p class="card-text mb-auto">钢绞线</p>
+                <p></p>
+                <p class="card-text mb-auto">锚具</p>
+                <p></p>
+                <p class="card-text mb-auto">工具锚</p>
+                <p></p>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+                <img src="/static/pic_6.png" class="img-thumbnail" height="224px">
+                <img src="/static/pic_7.png" class="img-thumbnail" height="224px">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+    <div class="col-auto d-none d-lg-block">
+        <img src="/static/wechat.png">
+    </div>
+    <div class="col p-4 d-flex flex-column position-static">
+        <strong class="d-inline-block mb-2 text-success">>>>关于我们</strong>
+        <h3 class="mb-0">手机：</h3>
+        <div class="mb-1 text-muted">13275999778</div>
+        <div class="mb-1 text-muted">15960971116</div>
+        <div class="mb-1 text-muted"></div>
+        <div class="mb-1 text-muted"></div>
+        <div class="mb-1 text-muted"></div>
+        <h3 class="mb-0">地址：</h3>
+        <div class="mb-1 text-muted"><p style="font-size: 24px">福建省南平市建阳区将口镇马踏龙工业区</p></div>
+    </div>
+</div>
+
+</body>
+</html>
